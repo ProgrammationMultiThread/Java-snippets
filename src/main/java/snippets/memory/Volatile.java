@@ -1,6 +1,7 @@
 /*
  * SPDX-License-Identifier: MIT
  * Inspired from https://github.com/thibaultdelor/InvalidCodeBlog
+ * Substantially modified (structure and setup differ from the original).
  * Part: Synchronisation bloquante
  * Section: Synchronisation par verrous
  * Subsection: Section critique
