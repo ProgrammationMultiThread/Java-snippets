@@ -1,4 +1,12 @@
-package mutualexclusion;
+/*
+ * SPDX-License-Identifier: MIT
+ * Part: Algorithmes d'Exclusion Mutuelle
+ * Section: Exclusion mutuelle à partir de read/write
+ * Subsection: Algorithme de Peterson
+ * Slide: Algorithme de Peterson
+ */
+
+package snippets.mutualexclusion;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 

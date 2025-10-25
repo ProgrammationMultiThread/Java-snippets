@@ -1,4 +1,12 @@
-package mutualexclusion;
+/*
+ * SPDX-License-Identifier: MIT
+ * Part: Algorithmes d'Exclusion Mutuelle
+ * Section: Utilisation d'instructions spéciales
+ * Subsection: Algorithme spin-lock
+ * Slide: L'algorithme spin-lock
+ */
+
+package snippets.mutualexclusion;
 
 import java.util.concurrent.atomic.AtomicBoolean;
 

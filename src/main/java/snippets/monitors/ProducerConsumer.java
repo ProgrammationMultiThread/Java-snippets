@@ -1,4 +1,12 @@
-package monitors;
+/*
+ * SPDX-License-Identifier: MIT
+ * Part: Synchronisation bloquante
+ * Section: Moniteurs
+ * Subsection: Notion de moniteur
+ * Slide: Le problème des producteurs et des consommateurs
+ */
+
+package snippets.monitors;
 
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;

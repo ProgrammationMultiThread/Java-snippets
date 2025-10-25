@@ -1,4 +1,12 @@
-package mutualexclusion;
+/*
+ * SPDX-License-Identifier: MIT
+ * Part: Algorithmes d'Exclusion Mutuelle
+ * Section: Exclusion mutuelle à partir de read/write
+ * Subsection: Algorithme de la Boulangerie de Lamport
+ * Slide: Algorithme de Lamport
+ */
+
+package snippets.mutualexclusion;
 
 import java.util.concurrent.atomic.AtomicIntegerArray;
 
